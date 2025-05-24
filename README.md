@@ -1,10 +1,3 @@
-# Modern Blog Application
-
-![Blog App](https://img.shields.io/badge/Blog-App-blue)
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![Prisma](https://img.shields.io/badge/Prisma-Latest-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)
-
 ## 🚀 Overview
 
 A modern, feature-rich blog application built with Next.js, Prisma, and Tailwind CSS. This application provides a beautiful UI for creating, editing, and managing blog articles with a robust dashboard for content management.
